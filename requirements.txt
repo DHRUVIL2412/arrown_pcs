@@ -1,0 +1,11 @@
+matplotlib
+numpy
+pandas
+ultralytics
+scikit-learn
+pickleshare
+opencv-python
+tensorflow w
+!git clone https://github.com/ultralytics/yolov5
+!cd yolov5
+!pip3 install -r ./yolov5/requirements.txt
